@@ -1,0 +1,1 @@
+{"orderId": 2502190378, "transactTime": 1624112653713, "sell": 340.83259453780266, "status": "NEW"}
