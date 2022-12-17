@@ -1,3 +1,6 @@
+
+![](https://github.com/razisamuely/Normal_dist_cryptocurrency_bot/data/gif.gif)
+
 # Normal_dist_cryptocurrency_bot
 
 The following project aim to create short range trading bot.
