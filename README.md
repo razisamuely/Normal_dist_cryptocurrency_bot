@@ -2,9 +2,9 @@
 
 The following project aim to create short range trading bot.
 
-By saying "short range" im talking about transactions in intervals of minutes.
+By saying "short range"  we mean intervals of minutes.
 
-The main core of this project is the is the assumption that within short time interval the values stock/currency is normally distributed.
+The main core of this project is the assumption that within short time interval the values stock/currency is normally distributed.
 
 The project is contain 5 processes which runs simultaneously:
 
