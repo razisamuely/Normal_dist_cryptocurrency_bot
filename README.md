@@ -1,5 +1,5 @@
 
-![](https://github.com/razisamuely/Normal_dist_cryptocurrency_bot/data/gif.gif)
+![](https://github.com/razisamuely/Normal_dist_cryptocurrency_bot/blob/main/data/gif.gif)
 
 # Normal_dist_cryptocurrency_bot
 
